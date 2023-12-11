@@ -1,0 +1,72 @@
+Nome: Mateus
+Idade: 18
+Genero: masculino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: nao
+Sofreu tortura (psicologica ou fisica): sim
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): sim
+
+----------------------------------------------------------------------------------------
+
+Nome: viviane
+Idade: 47
+Genero: feminino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: sim
+Sofreu tortura (psicologica ou fisica): sim
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): sim
+
+----------------------------------------------------------------------------------------
+
+Nome: Matchuga
+Idade: 20
+Genero: masculino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: nao
+Sofreu tortura (psicologica ou fisica): nao
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): nao
+
+----------------------------------------------------------------------------------------
+
+Nome: oss
+Idade: 39
+Genero: masculino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: sim
+Sofreu tortura (psicologica ou fisica): nao
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): nao
+----------------------------------------------------------------------------------------
+
+Nome: Malu
+Idade: 18
+Genero: feminino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: nao
+Sofreu tortura (psicologica ou fisica): sim
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): sim
+----------------------------------------------------------------------------------------
+
+Nome: bia
+Idade: 20
+Genero: feminino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: sim
+Sofreu tortura (psicologica ou fisica): nao
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): sim
+----------------------------------------------------------------------------------------
+Nome: marcelo
+Idade: 34
+Genero: masculino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: sim
+Sofreu tortura (psicologica ou fisica): nao
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): sim
+----------------------------------------------------------------------------------------
+Nome: lucas
+Idade: 12
+Genero: masculino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: nai
+Sofreu tortura (psicologica ou fisica): sim
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): sim
+----------------------------------------------------------------------------------------

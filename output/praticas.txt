@@ -1,0 +1,40 @@
+Nome: Mateus
+Idade: 18
+Genero: masculino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: sim
+Sofreu tortura (psicologica ou fisica): nao
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): sim
+----------------------------------------------------------------------------------------
+Nome: Juca
+Idade: 20
+Genero: masculino
+Sofreu algum ato de violencia: nao
+Trabalhou em condicoes analogas a escravidao: sim
+Sofreu tortura (psicologica ou fisica): sim
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): sim
+----------------------------------------------------------------------------------------
+Nome: Fernanda
+Idade: 30
+Genero: feminino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: nao
+Sofreu tortura (psicologica ou fisica): sim
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): sim
+----------------------------------------------------------------------------------------
+Nome: Saulo
+Idade: 10
+Genero: masculino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: nao
+Sofreu tortura (psicologica ou fisica): nao
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): sim
+----------------------------------------------------------------------------------------
+Nome: Maria
+Idade: 19
+Genero: feminino
+Sofreu algum ato de violencia: sim
+Trabalhou em condicoes analogas a escravidao: sim
+Sofreu tortura (psicologica ou fisica): sim
+Sofreu algum tipo de repressao (expressao , religiosa, social e etc): nao
+----------------------------------------------------------------------------------------
